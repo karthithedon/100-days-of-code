@@ -14,3 +14,10 @@
 
 **Thoughts:** Surprised that v-html in Vue js can only work with setting the html as string in vue data. Have to find a way if it can be hardcoded in the template itself. Eg. for mDash I had to set in data mDash: '\u2014' and do v-html="mDash" in template.
 
+### Day 2: May 10, 2018 
+
+
+**Today's Progress**: Learnt about Virtual dom & shadow dom
+
+**Thoughts:** Virtual DOM is a pattern, which handles efficient DOM repainting . Shadow DOM is a draft W3C standard in work. 
+
