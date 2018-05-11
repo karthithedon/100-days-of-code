@@ -21,3 +21,13 @@
 
 **Thoughts:** Virtual DOM is a pattern, which handles efficient DOM repainting . Shadow DOM is a draft W3C standard in work. 
 
+### Day 3: May 11, 2018 
+
+
+**Today's Progress**: 
+1. Learnt & coded for template conditions, dynamic classes & short hands for directives 
+2. Register a component in Vue
+
+
+**Thoughts:** Pretty straight forward. Vue.component registration should be done before the new Vue else it throws error 'did you register the component correctly'
+
